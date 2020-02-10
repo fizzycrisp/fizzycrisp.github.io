@@ -1,6 +1,7 @@
 # main links
 main:
-  - title : "Summary"
+  - title : "Posts"
+    url : /_posts/
   - title : "Download"
   - title : "Contect"
   #- title: "Quick-Start Guide"

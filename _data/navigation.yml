@@ -3,6 +3,7 @@ main:
   - title : "Posts"
     url : /_posts/
   - title : "Download"
+    url : https://github.com/fizzycrisp/SampleDownload/
   - title : "Contect"
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

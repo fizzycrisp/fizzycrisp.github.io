@@ -13,4 +13,4 @@ testtest
 
 Check out the [Test][test]
 
-[test]: https://jekyllrb.com/docs/home
+[test]: https://fizzycrisp.github.io/
